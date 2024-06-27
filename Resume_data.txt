@@ -1,0 +1,63 @@
+My information:
+my name is Rohan shet
+mobile or contact number is +91 8553439205
+email id or address is rohan.shet123@gmail.com
+GitHub id is https://github.com/rohans1869
+linkedin id is www.linkedin.com/in/rohanr2
+
+
+
+technical skills:
+I know these Programming language 1.Python 2. SQL
+my technical skills are Python, SQL, GPT, langchain, Deep Learning, CNN, ANN, lstm
+
+
+
+Projects:
+these are some of my projects 1.Voice/Text-Based Equipment Information Chatbot for Hospital staff.
+2. Digitizing handwritten audit images
+3. EDA on the Mental health app data
+4. Chatbot for website using GPT 3.5 and langchain
+5. Product recommendation for e commerce websites
+
+
+
+Projects details:
+project 1. Project Title : Voice/Text-Based Equipment Information Chatbot for Hospital staff.
+Objective  and Description :  Chatbot to find equipment information (location, maintenance date, etc ) with text chat or voice input, using GPT. GPT will generate script to call API which will retrieve equipment info from hospital server.
+Tool used : GPT 3.5, langchain, Python.
+Results and Impact: Staff can inquire about equipment using either voice or text and receive answers in both voice and textual formats.
+
+project 2. Project Title : Digitizing handwritten audit images
+Objective : converting handwritten text and OMR markings into digital form. 
+Description -  To enhance the clarity of images, they are preprocessed with OpenCV. Using AWS Textract, only handwritten text is recognized. but it failed to recognize OMR markings. and would skip some parts of the text. So we addressed the shortcomings of Textract with Python.
+Tool used : Python, Amazon textract, easy OCR, OpenCV
+Results and Impact: It has reduced transcriber work more than 70%.
+
+project 3. Project Title: EDA on the Mental health app data
+Objective: EDA on the dataset of a Mental Health App, which provides exercises and coaching sessions to improve mental health.
+Description: To learn about the effectiveness of the BeMe app in treating depression. EDA was conducted on user data.
+Tool used: Python, Matplotlib, Seaborn
+Result: We identified patterns and trends in user engagement with the BeMe Mental Health App, indicating its potential effectiveness in treating depression.
+
+project 4.  Chatbot for website using GPT 3.5 and langchain . Content of website is stored in vectorized form, and Q&A bot is built on top of that. (tools used GPT 3.5, langchain, Python, Chroma (vectorizer))
+
+project 5. Product recommendation for e commerce websites using GPT 3.5, langchain, Python, Chroma (vectorizer).
+ And  Data analysing with prompt using GPT 3.5, langchain, Python
+ 
+ 
+ 
+ Work Experience:
+Currently working in Codecraft Technologies pvt ltd (Sep 2022 to  Present) as Data scientist
+I have worked in Aivariant (Nov 2021  to July 2022) as Data scientist
+
+
+
+NON IT Work Experience:
+I have worked in RGBSI pvt ltd (Oct 2019   to  Oct 2021) as CNC Programmer
+I have worked in Jaivel Aerospace as CNC Programmer
+
+
+
+ EDUCATION:
+ I have done my Bachelor of engineering in mechanical from VTU.
